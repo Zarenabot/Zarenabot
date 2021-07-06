@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zarenabot
+- 👀 I’m interested in **Python**
+- 🌱 I’m currently learning **AI**
+- 💞️ I’m looking to collaborate on other bots
+- 📫 How to reach me discord
